@@ -1,11 +1,8 @@
+import React from 'react'
 import './App.css'
 
-function App() {
-    return (
-
-        <div>
-        </div>
-    )
+function App(): JSX.Element {
+  return <div></div>
 }
 
 export default App
