@@ -1,6 +1,8 @@
 # React + TypeScript + Vite
 
-Requires Node.js v20.18.0 and pnpm for package management.
+Requires Node.js v20.18.0 and pnpm for package management. The project uses
+[Prettier](https://prettier.io/) for code formatting. Run `pnpm run format` to
+format all source files.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
